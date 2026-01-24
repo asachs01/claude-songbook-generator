@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{TITLE}}</title>
+  <link rel="stylesheet" href="../templates/styles.css">
+</head>
+<body>
+  <div class="page">
+    <!-- Left Panel: Lyrics -->
+    <div class="lyrics-panel">
+      <div class="lyrics-title">{{TITLE}}</div>
+      {{LYRICS_HTML}}
+    </div>
+
+    <!-- Right Panel: Chord Chart -->
+    <div class="chord-panel">
+      <div class="chart-title">{{CHART_TITLE}}</div>
+      <div class="chart-body">
+        {{CHORD_CHARTS_HTML}}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

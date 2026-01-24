@@ -1,0 +1,118 @@
+{
+  "title": "Angeline the Baker",
+  "lyrics": [
+    {
+      "lines": [
+        "Angeline the Baker, her age was forty-three,",
+        "Should have married Angeline when she'd have married me."
+      ]
+    },
+    {
+      "lines": [
+        "Tell how I took Miss Angeline down to the county fair,",
+        "Her father chased me halfway home and told me to stay there."
+      ]
+    },
+    {
+      "lines": [
+        "Bought my love a brand new dress, neither black nor brown,",
+        "Was the color of the stormy sky, before the rain pours down."
+      ]
+    },
+    {
+      "lines": [
+        "Angeline is lovely, Angeline is tall,",
+        "She broke her little ankle bone from dancing in the hall."
+      ]
+    },
+    {
+      "lines": [
+        "Angeline the Baker, made me weep and moan,",
+        "Left me standing by myself, to play the old jawbone."
+      ]
+    },
+    {
+      "lines": [
+        "Angeline the Baker, She lived on the village green,",
+        "And the way that I love her still, beats all to be seen."
+      ]
+    },
+    {
+      "lines": [
+        "Angeline the Baker, her age is forty-three,",
+        "Little children round her feet and a banjo on her knee."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "key": "D",
+      "sections": [
+        {
+          "label": "A Part",
+          "rows": 8,
+          "endings": [
+            {
+              "column": 0,
+              "ending": 1
+            },
+            {
+              "column": 1,
+              "ending": 2
+            }
+          ],
+          "chords": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "G",
+            "G",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "G",
+            "G"
+          ]
+        },
+        {
+          "label": "B Part",
+          "rows": 8,
+          "endings": [
+            {
+              "column": 0,
+              "ending": 1
+            },
+            {
+              "column": 1,
+              "ending": 2
+            }
+          ],
+          "chords": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "G",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "D",
+            "G",
+            "D"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bgjambook",
+  "version": "1.0.0",
+  "description": "Bluegrass Jam Songbook Generator - chord charts in TNBGJ format",
+  "scripts": {
+    "generate-html": "node scripts/generate-html.js",
+    "generate-pdf": "node scripts/generate-pdf.js",
+    "transpose": "node scripts/transpose.js"
+  },
+  "keywords": ["bluegrass", "chord-chart", "songbook"],
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.36.0"
+  }
+}
