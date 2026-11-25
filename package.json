@@ -10,6 +10,6 @@
   "keywords": ["bluegrass", "chord-chart", "songbook"],
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^24.36.0"
+    "puppeteer": "^25.19.0"
   }
 }
